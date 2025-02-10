@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class KalkulackaAssertJ {
+public class KalkulackaAssertJTest {
 
     @Test
     public void secti() {
