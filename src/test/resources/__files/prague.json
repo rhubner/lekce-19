@@ -1,0 +1,12 @@
+{
+  "temperature" : 12.3,
+  "humidity": 48.5,
+  "weather": "Sunny sky",
+  "wind": {
+    "speed": 1.533665522541,
+    "deg": 194,
+    "gust": 5.9
+  }
+
+
+}
