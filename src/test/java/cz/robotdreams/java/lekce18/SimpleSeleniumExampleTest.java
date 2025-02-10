@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assumptions.assumeFalse;
 
 
-public class SimpleSeleniumExample {
+public class SimpleSeleniumExampleTest {
 
     @Test
     public void seleniumTest() {
